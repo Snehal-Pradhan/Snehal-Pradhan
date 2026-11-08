@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<table cellpadding="44" cellspacing="0" border="0">
+<table cellpadding="44" cellspacing="0" border="0" width="80%">
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Snehal-Pradhan/covo"><img src="assets/covo.png" width="130" alt="covo"></a><br>
