@@ -14,20 +14,28 @@
 
 <h2 align="center">DevOps Projects</h2>
 
-<p align="center">
-  <a href="https://github.com/Snehal-Pradhan/covo"><img src="assets/covo.png" width="20%" alt="covo"></a>
-  <a href="https://github.com/Snehal-Pradhan/nflix"><img src="assets/nflix.png" width="20%" alt="nflix"></a>
-  <br>
-  <a href="https://github.com/Snehal-Pradhan/k8o"><img src="assets/k8o.png" width="20%" alt="k8o"></a>
-  <a href="https://github.com/Snehal-Pradhan/mainLine"><img src="assets/mainLine.png" width="20%" alt="mainLine"></a>
-</p>
-
-<p align="center">
-  <sub><b>covo</b> — team management tool</sub><br>
-  <sub><b>nflix</b> — movie store</sub><br>
-  <sub><b>k8o</b> — Kubernetes AI healing system</sub><br>
-  <sub><b>mainLine</b> — self-hosted MLOps platform: contract, gates, canary, rollback</sub>
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Snehal-Pradhan/covo"><img src="assets/covo.png" width="180" alt="covo"></a><br>
+      <sub>team management tool</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Snehal-Pradhan/nflix"><img src="assets/nflix.png" width="180" alt="nflix"></a><br>
+      <sub>movie store</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Snehal-Pradhan/k8o"><img src="assets/k8o.png" width="180" alt="k8o"></a><br>
+      <sub>Kubernetes AI healing system</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Snehal-Pradhan/mainLine"><img src="assets/mainLine.png" width="180" alt="mainLine"></a><br>
+      <sub>self-hosted MLOps platform: contract, gates, canary, rollback</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
