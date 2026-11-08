@@ -33,7 +33,7 @@
       <sub>Kubernetes AI healing system</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Snehal-Pradhan/mainLine"><img src="assets/mainLine.png" width="130" alt="mainLine"></a><br>
+      <a href="https://github.com/Snehal-Pradhan/mainLine"><img src="assets/mainLine.png" width="230" alt="mainLine"></a><br>
       <sub>self-hosted MLOps platform: contract, gates, canary, rollback</sub>
     </td>
   </tr>
