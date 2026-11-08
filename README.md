@@ -6,7 +6,7 @@
   </tr>
   <tr>
     <td align="left" valign="middle" width="200" height="54">
-      <a href="https://github.com/Snehal-Pradhan/covo"><img src="assets/covo.png" height="30" alt="covo"></a>
+      <a href="https://github.com/Snehal-Pradhan/covo"><img src="assets/covo.png" height="25" alt="covo"></a>
     </td>
     <td align="left" valign="middle">
       <sub><b>Covo</b> is a team management tool.</sub>
@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td align="left" valign="middle" width="200" height="54">
-      <a href="https://github.com/Snehal-Pradhan/nflix"><img src="assets/nflix.png" height="30" alt="nflix"></a>
+      <a href="https://github.com/Snehal-Pradhan/nflix"><img src="assets/nflix.png" height="25" alt="nflix"></a>
     </td>
     <td align="left" valign="middle">
       <sub><b>Nflix</b> is a movie store.</sub>
@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td align="left" valign="middle" width="200" height="54">
-      <a href="https://github.com/Snehal-Pradhan/k8o"><img src="assets/k8o.png" height="30" alt="k8o"></a>
+      <a href="https://github.com/Snehal-Pradhan/k8o"><img src="assets/k8o.png" height="25" alt="k8o"></a>
     </td>
     <td align="left" valign="middle">
       <sub><b>K8o</b> is a Kubernetes AI healing system.</sub>
