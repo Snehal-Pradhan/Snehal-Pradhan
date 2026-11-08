@@ -14,64 +14,35 @@
 
 ## Projects
 
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
+<p><img src="assets/covo.png" height="52" alt="covo"></p>
 
-<p align="center">
-  <img src="assets/covo.png" height="64" alt="covo">
-</p>
+### [covo](https://github.com/Snehal-Pradhan/covo)
 
-**[covo](https://github.com/Snehal-Pradhan/covo)**
+Team management tool. `early development`
 
-Team management tool.
+---
 
-`early development`
+<p><img src="assets/nflix.png" height="52" alt="nflix"></p>
 
-</td>
-<td width="50%" valign="top" align="center">
+### [nflix](https://github.com/Snehal-Pradhan/nflix)
 
-<p align="center">
-  <img src="assets/nflix.png" height="64" alt="nflix">
-</p>
+Movie store. `early development`
 
-**[nflix](https://github.com/Snehal-Pradhan/nflix)**
+---
 
-Movie store.
+<p><img src="assets/k8o.png" height="52" alt="k8o"></p>
 
-`early development`
+### [k8o](https://github.com/Snehal-Pradhan/k8o)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
+Kubernetes AI healing system. `early development`
 
-<p align="center">
-  <img src="assets/k8o.png" height="64" alt="k8o">
-</p>
+---
 
-**[k8o](https://github.com/Snehal-Pradhan/k8o)**
+<p><img src="assets/mainLine.png" height="52" alt="mainLine"></p>
 
-Kubernetes AI healing system.
+### [mainLine](https://github.com/Snehal-Pradhan/mainLine)
 
-`early development`
-
-</td>
-<td width="50%" valign="top" align="center">
-
-<p align="center">
-  <img src="assets/mainLine.png" height="64" alt="mainLine">
-</p>
-
-**[mainLine](https://github.com/Snehal-Pradhan/mainLine)**
-
-Self-hosted MLOps platform. Contract, gates, canary, rollback.
-
-`early development`
-
-</td>
-</tr>
-</table>
+Self-hosted MLOps platform. Contract, gates, canary, rollback. `early development`
 
 ---
 
