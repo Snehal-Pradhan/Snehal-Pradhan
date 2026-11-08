@@ -19,11 +19,7 @@
 <td width="50%" valign="top" align="center">
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/covo-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/covo-light.png">
-    <img src="assets/covo-light.png" height="42" alt="covo">
-  </picture>
+  <img src="assets/covo.png" height="64" alt="covo">
 </p>
 
 **[covo](https://github.com/Snehal-Pradhan/covo)**
@@ -36,11 +32,7 @@ Team management tool.
 <td width="50%" valign="top" align="center">
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/nflix-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/nflix-light.png">
-    <img src="assets/nflix-light.png" height="42" alt="nflix">
-  </picture>
+  <img src="assets/nflix.png" height="64" alt="nflix">
 </p>
 
 **[nflix](https://github.com/Snehal-Pradhan/nflix)**
@@ -55,11 +47,7 @@ Movie store.
 <td width="50%" valign="top" align="center">
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/k8o-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/k8o-light.png">
-    <img src="assets/k8o-light.png" height="42" alt="k8o">
-  </picture>
+  <img src="assets/k8o.png" height="64" alt="k8o">
 </p>
 
 **[k8o](https://github.com/Snehal-Pradhan/k8o)**
@@ -72,11 +60,7 @@ Kubernetes AI healing system.
 <td width="50%" valign="top" align="center">
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/mainLine-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/mainLine-light.png">
-    <img src="assets/mainLine-light.png" height="42" alt="mainline">
-  </picture>
+  <img src="assets/mainLine.png" height="64" alt="mainLine">
 </p>
 
 **[mainLine](https://github.com/Snehal-Pradhan/mainLine)**
