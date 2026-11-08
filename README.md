@@ -18,34 +18,34 @@
 
 <table cellpadding="16" cellspacing="0" border="0" width="80%">
   <tr>
-    <td align="left" valign="middle" width="50%" height="54">
+    <td align="left" valign="middle" width="170" height="54">
       <a href="https://github.com/Snehal-Pradhan/covo"><img src="assets/covo.png" height="30" alt="covo"></a>
     </td>
-    <td align="left" valign="middle" width="50%">
+    <td align="left" valign="middle">
       <sub><b>covo</b> — team management tool</sub>
     </td>
   </tr>
   <tr>
-    <td align="left" valign="middle" width="50%" height="54">
+    <td align="left" valign="middle" width="170" height="54">
       <a href="https://github.com/Snehal-Pradhan/nflix"><img src="assets/nflix.png" height="30" alt="nflix"></a>
     </td>
-    <td align="left" valign="middle" width="50%">
+    <td align="left" valign="middle">
       <sub><b>nflix</b> — movie store</sub>
     </td>
   </tr>
   <tr>
-    <td align="left" valign="middle" width="50%" height="54">
+    <td align="left" valign="middle" width="170" height="54">
       <a href="https://github.com/Snehal-Pradhan/k8o"><img src="assets/k8o.png" height="30" alt="k8o"></a>
     </td>
-    <td align="left" valign="middle" width="50%">
+    <td align="left" valign="middle">
       <sub><b>k8o</b> — Kubernetes AI healing system</sub>
     </td>
   </tr>
   <tr>
-    <td align="left" valign="middle" width="50%" height="54">
+    <td align="left" valign="middle" width="170" height="54">
       <a href="https://github.com/Snehal-Pradhan/mainLine"><img src="assets/mainLine.png" height="22" alt="mainLine"></a>
     </td>
-    <td align="left" valign="middle" width="50%">
+    <td align="left" valign="middle">
       <sub><b>mainLine</b> — self-hosted MLOps platform: contract, gates, canary, rollback</sub>
     </td>
   </tr>
