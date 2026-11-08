@@ -12,37 +12,45 @@
 
 ---
 
-## Projects
+<h2 align="center">DevOps Projects</h2>
 
-<p><img src="assets/covo.png" height="52" alt="covo"></p>
+<p align="center">
+  <img src="assets/covo.png" height="44" alt="covo">
+</p>
 
-### [covo](https://github.com/Snehal-Pradhan/covo)
+<h3 align="center"><a href="https://github.com/Snehal-Pradhan/covo">covo</a></h3>
 
-Team management tool. `early development`
-
----
-
-<p><img src="assets/nflix.png" height="52" alt="nflix"></p>
-
-### [nflix](https://github.com/Snehal-Pradhan/nflix)
-
-Movie store. `early development`
+<p align="center">Team management tool. <code>early development</code></p>
 
 ---
 
-<p><img src="assets/k8o.png" height="52" alt="k8o"></p>
+<p align="center">
+  <img src="assets/nflix.png" height="44" alt="nflix">
+</p>
 
-### [k8o](https://github.com/Snehal-Pradhan/k8o)
+<h3 align="center"><a href="https://github.com/Snehal-Pradhan/nflix">nflix</a></h3>
 
-Kubernetes AI healing system. `early development`
+<p align="center">Movie store. <code>early development</code></p>
 
 ---
 
-<p><img src="assets/mainLine.png" height="52" alt="mainLine"></p>
+<p align="center">
+  <img src="assets/k8o.png" height="44" alt="k8o">
+</p>
 
-### [mainLine](https://github.com/Snehal-Pradhan/mainLine)
+<h3 align="center"><a href="https://github.com/Snehal-Pradhan/k8o">k8o</a></h3>
 
-Self-hosted MLOps platform. Contract, gates, canary, rollback. `early development`
+<p align="center">Kubernetes AI healing system. <code>early development</code></p>
+
+---
+
+<p align="center">
+  <img src="assets/mainLine.png" height="44" alt="mainLine">
+</p>
+
+<h3 align="center"><a href="https://github.com/Snehal-Pradhan/mainLine">mainLine</a></h3>
+
+<p align="center">Self-hosted MLOps platform. Contract, gates, canary, rollback. <code>early development</code></p>
 
 ---
 
@@ -58,4 +66,4 @@ Self-hosted MLOps platform. Contract, gates, canary, rollback. `early developmen
   <a href="https://github.com/Snehal-Pradhan?tab=repositories"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Snehal--Pradhan-181717?style=for-the-badge&logo=github"></a>
 </p>
 
-<sub>Profile README. Assets in <a href="assets"><code>assets/</code></a>, generated from each project's <code>public/logo-readme.png</code>.</sub>
+<sub>Profile README. Logos in <a href="assets"><code>assets/</code></a> are byte-identical copies of each project's <code>public/logo-readme.png</code>.</sub>
