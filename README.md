@@ -15,42 +15,12 @@
 <h2 align="center">DevOps Projects</h2>
 
 <p align="center">
-  <img src="assets/covo.png" height="44" alt="covo">
+  <a href="https://github.com/Snehal-Pradhan/covo"><img src="assets/covo.png" width="47%" alt="covo"></a>
+  <a href="https://github.com/Snehal-Pradhan/nflix"><img src="assets/nflix.png" width="47%" alt="nflix"></a>
+  <br>
+  <a href="https://github.com/Snehal-Pradhan/k8o"><img src="assets/k8o.png" width="47%" alt="k8o"></a>
+  <a href="https://github.com/Snehal-Pradhan/mainLine"><img src="assets/mainLine.png" width="47%" alt="mainLine"></a>
 </p>
-
-<h3 align="center"><a href="https://github.com/Snehal-Pradhan/covo">covo</a></h3>
-
-<p align="center">Team management tool. <code>early development</code></p>
-
----
-
-<p align="center">
-  <img src="assets/nflix.png" height="44" alt="nflix">
-</p>
-
-<h3 align="center"><a href="https://github.com/Snehal-Pradhan/nflix">nflix</a></h3>
-
-<p align="center">Movie store. <code>early development</code></p>
-
----
-
-<p align="center">
-  <img src="assets/k8o.png" height="44" alt="k8o">
-</p>
-
-<h3 align="center"><a href="https://github.com/Snehal-Pradhan/k8o">k8o</a></h3>
-
-<p align="center">Kubernetes AI healing system. <code>early development</code></p>
-
----
-
-<p align="center">
-  <img src="assets/mainLine.png" height="44" alt="mainLine">
-</p>
-
-<h3 align="center"><a href="https://github.com/Snehal-Pradhan/mainLine">mainLine</a></h3>
-
-<p align="center">Self-hosted MLOps platform. Contract, gates, canary, rollback. <code>early development</code></p>
 
 ---
 
