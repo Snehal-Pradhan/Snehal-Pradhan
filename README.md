@@ -14,6 +14,8 @@
 
 <h2 align="center">DevOps Projects</h2>
 
+<div align="center">
+
 <table>
   <tr>
     <td align="center" width="50%">
@@ -36,6 +38,8 @@
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
