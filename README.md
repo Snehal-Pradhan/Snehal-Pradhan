@@ -12,11 +12,14 @@
 
 ---
 
-<h2 align="center">DevOps Projects</h2>
+<h2>Projects</h2>
 
 <div align="center">
 
 <table cellpadding="16" cellspacing="0" border="0" width="80%">
+  <tr>
+    <td align="left" colspan="2"><b>Devops Projects</b></td>
+  </tr>
   <tr>
     <td align="left" valign="middle" width="200" height="54">
       <a href="https://github.com/Snehal-Pradhan/covo"><img src="assets/covo.png" height="30" alt="covo"></a>
