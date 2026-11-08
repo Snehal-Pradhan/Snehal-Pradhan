@@ -1,6 +1,6 @@
 <h2>Projects</h2>
 
-<div align="center">
+<div>
 
 <table cellpadding="16" cellspacing="0" border="0" width="80%">
   <tr>
