@@ -14,32 +14,25 @@
 
 <h2 align="center">DevOps Projects</h2>
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Snehal-Pradhan/covo"><img src="assets/covo.png" width="130" alt="covo"></a><br>
+  <sub>team management tool</sub>
+</p>
 
-<table cellpadding="44" cellspacing="0" border="0" width="80%">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Snehal-Pradhan/covo"><img src="assets/covo.png" width="130" alt="covo"></a><br>
-      <sub>team management tool</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Snehal-Pradhan/nflix"><img src="assets/nflix.png" width="130" alt="nflix"></a><br>
-      <sub>movie store</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Snehal-Pradhan/k8o"><img src="assets/k8o.png" width="130" alt="k8o"></a><br>
-      <sub>Kubernetes AI healing system</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Snehal-Pradhan/mainLine"><img src="assets/mainLine.png" width="230" alt="mainLine"></a><br>
-      <sub>self-hosted MLOps platform: contract, gates, canary, rollback</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Snehal-Pradhan/nflix"><img src="assets/nflix.png" width="130" alt="nflix"></a><br>
+  <sub>movie store</sub>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/Snehal-Pradhan/k8o"><img src="assets/k8o.png" width="130" alt="k8o"></a><br>
+  <sub>Kubernetes AI healing system</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Snehal-Pradhan/mainLine"><img src="assets/mainLine.png" width="230" alt="mainLine"></a><br>
+  <sub>self-hosted MLOps platform: contract, gates, canary, rollback</sub>
+</p>
 
 ---
 
@@ -55,4 +48,4 @@
   <a href="https://github.com/Snehal-Pradhan?tab=repositories"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Snehal--Pradhan-181717?style=for-the-badge&logo=github"></a>
 </p>
 
-<sub>Profile README. Logos in <a href="assets"><code>assets/</code></a> are byte-identical copies of each project's <code>public/logo-readme.png</code>.</sub>
+<sub>Profile README. Logos in <a href="assets"><code>assets/</code></a> derive from each project's <code>public/logo-readme.png</code>, background removed only.</sub>
