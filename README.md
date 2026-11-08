@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td align="left" valign="middle" width="50%" height="90">
-      <a href="https://github.com/Snehal-Pradhan/mainLine"><img src="assets/mainLine.png" height="50" alt="mainLine"></a>
+      <a href="https://github.com/Snehal-Pradhan/mainLine"><img src="assets/mainLine.png" height="36" alt="mainLine"></a>
     </td>
     <td align="left" valign="middle" width="50%">
       <sub><b>mainLine</b> — self-hosted MLOps platform: contract, gates, canary, rollback</sub>
