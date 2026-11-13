@@ -40,6 +40,24 @@
 
 </div>
 
+<div>
+
+<table cellpadding="16" cellspacing="0" border="0" width="80%">
+  <tr>
+    <td align="left" colspan="2"><b>DevTools</b></td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle" width="200" height="54">
+      <a href="https://github.com/Snehal-Pradhan/Notan"><img src="assets/notan.png" height="25" alt="Notan"></a>
+    </td>
+    <td align="left" valign="middle">
+      <sub><b>Notan</b> is a spec-driven DevTool for Engineers in the AI era .</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ## What I work on
 
 - Infrastructure platforms that carry a workload from prototype to served, monitored, reversible operation.
