@@ -51,7 +51,7 @@
       <a href="https://github.com/Snehal-Pradhan/Notan"><img src="assets/notan.png" height="25" alt="Notan"></a>
     </td>
     <td align="left" valign="middle">
-      <sub><b>Notan</b> is a spec-driven DevTool for Engineers in the AI era .</sub>
+      <sub><b>Notan</b> is a calm, offline workspace for the Markdown specs your coding agents build from.</sub>
     </td>
   </tr>
 </table>
